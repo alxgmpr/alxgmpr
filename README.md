@@ -2,7 +2,7 @@
 
 _Edzart_ is my Grandfather's name, and my middle name. But I'm Alex! Pleased to meet you.
 
-I'm a software engineer with an affinity for e-commerce. I'm currently building (really cool) things I can't talk about @ [TryNow](trynow.io).
+I'm a software engineer with an affinity for e-commerce. I'm currently building (really cool) things I can't talk about @ [TryNow](https://trynow.io).
 
 In my free time, I enjoy reverse engineering websites and apps. Poke through my repositories!
 
@@ -14,7 +14,7 @@ In my free time, I enjoy reverse engineering websites and apps. Poke through my 
 
 ### Contact
 
-While I'm not currently looking for work/new projects, I can be reached via [edz.art](edz.art) or Twitter [@edzart](twitter.com/edzart)
+While **I'm not currently looking for work**, I can be reached via [edz.art](https://edz.art) or Twitter [@edzart](https://twitter.com/edzart)
 <!--
 **alxgmpr/alxgmpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
