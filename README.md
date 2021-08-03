@@ -2,7 +2,7 @@
 
 _Edzart_ is my Grandfather's name, and my middle name. But I'm Alex! Pleased to meet you.
 
-I'm a software engineer with an affinity for e-commerce. I'm currently building (really cool) things I can't talk about @ [TryNow](https://trynow.io).
+I'm a software engineer with an affinity for e-commerce. I'm currently building (really cool) things @ [TryNow](https://trynow.io).
 
 In my free time, I enjoy reverse engineering websites and apps. Poke through my repositories!
 
