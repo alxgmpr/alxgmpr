@@ -9,7 +9,7 @@ In my free time, I enjoy reverse engineering websites and apps. Poke through my 
 ### Language Proficiency
 
 - Python (my love language) 🐍
-- JavaScript (Next.js + React) ☕️
+- TypeScript (Next.js + React) ☕️
 - Ruby (on Rails) 💎
 
 ### Contact
